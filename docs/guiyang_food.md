@@ -1,4 +1,7 @@
 # 贵阳美食
+
+[返回主页](http://wanlicn.github.io/restaurant/)
+
 * **息峰阳郎鸡**
 * **豆腐丸子**
 * **肠旺面**
