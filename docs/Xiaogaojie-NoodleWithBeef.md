@@ -1,4 +1,6 @@
 ## Beef Noodle Soup
+![红烧牛肉面](./Images/XGJ-BeefNoodleSoup.jpg)
+
 ### Recipt:
 
 **Ingredient:**
