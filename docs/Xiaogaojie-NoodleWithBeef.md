@@ -1,5 +1,5 @@
 ## Beef Noodle Soup
-![红烧牛肉面](../Images/XGJ-BeefNoodleSoup.jpg)
+![红烧牛肉面](/docs/Images/XGJ-BeefNoodleSoup.jpg)
 
 ### Recipt:
 
