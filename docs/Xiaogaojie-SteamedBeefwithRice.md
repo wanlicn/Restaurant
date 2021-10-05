@@ -38,12 +38,6 @@
 - Oil(hot): 1/3 cup
 - Sesame oil: 1 tbsp
 
-**Noodles**
-- All purpose flour: 2 cup
-- Salt: 1/4 tsp
-- Water: 3/4 cup + 1 tsp adjustment
-- Bok choy (青菜)
-
 ### **Steps:**
 - Step 1: Prepare the beef
 1. Submerge the beef in water for 10 minutes, and wash away the blood
@@ -57,8 +51,11 @@
 1. Mix the ground rice with the beef
 2. Add some water
 3. Add some Oil
-- Step 4: Steaming
+- Step 4: Steaming the beef
 1. Put the beef in a bowl with a lid
 2. Boil the water in the steamer
 3. put the bowl into the steamer
 4. Steamed on low heat for 55 minutes
+5. All is done
+
+### Enjoy the meal!
