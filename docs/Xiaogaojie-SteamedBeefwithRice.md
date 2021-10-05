@@ -5,7 +5,7 @@
 **Recipe:**
 Beef tenderlion:500 g
 
-**Ingredient:**
+**Ingredients:**
 Baking soda: 1 tbsp
 
 - group1
@@ -45,9 +45,9 @@ Oil(hot): 1/3 cup
 Sesame oil: 1 tbsp
 
 **Steps:**
-1. Soak the beef in water for 10 minutes, and wash away the blood
+1. Submerge the beef in water for 10 minutes, and wash away the blood
 2. Mix the baking soda with the beef thoroughly
-3. Mix the beef with all the Ingredient group-1, waiting for 1 hour
+3. Mix the beef with all the Ingredient group-1, marinated for 1 hour
 - 
 1. Frying the group-2 ingredient in the pan until the rice turned a bit brown
 2. Pick out the spices
