@@ -1,5 +1,8 @@
-# Sauced Beef
-酱牛肉[https://www.youtube.com/watch?v=esz2fBMGkPE]
+*[Home](https://wanlicn.github.io/restaurant/)*
+## Sauced Beef
+[酱牛肉](https://www.youtube.com/watch?v=esz2fBMGkPE)
+
+![酱牛肉](./Images/XGJ-BeefWithSauce.jpg)
 
 ### Recipe:
 
@@ -24,12 +27,12 @@
   * Salt: adjustable amount
 
 ### Steps:
-1. Soak the beef shank in the regulor soy sauce 
+1. Soak the beef shank in the regulor soy sauce (Group1)
 2. Store in fridge (refregerator) for the whole night
 3. Add some water in the sauce (submerge the beef)
-4. Blanching the beef with the sauce
+4. Blanching the content
 5. Skim off the foam
-6. Add Group-2 ingredients into the sauce
+6. Add Group2 ingredients into the sauce
 7. Heat on low heat for 2.5 hours
 8. Store the sauce and beef in fridge for the whole night after it cool down
 9. Cut the beef into slice
