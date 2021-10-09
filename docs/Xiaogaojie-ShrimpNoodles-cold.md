@@ -14,7 +14,7 @@
 * group 1
   * Salt:1/8 tsp
   * White pepper powder: 1/8 tsp
-  * Starch: 1 tsp 
+  * Corn Starch: 1 tsp 
 * group 2
   * Garlic: 1 head
  
