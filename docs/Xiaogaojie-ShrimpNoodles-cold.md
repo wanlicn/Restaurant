@@ -32,8 +32,6 @@
   * Sugar: 1 tsp
   * Water: 2 tbsp
   * Oil: as needed
-1. Pure the hot oil (used in step3) into the Group1 ingredents 
-2. Mixed with Group4 ingredents
 
 ### Steps:
 - Step 1: **Prepare the noodles**
@@ -49,6 +47,9 @@
 4. Mix shrimp with group1
 5. Fry the shrimp with the oil (used for garlic)
 6. Pick out the shrimp
+- Step 4: **Prepare sauce**
+1. Pure the hot oil (used in step3) into the Group1 ingredents 
+2. Mixed with Group4 ingredents
 
 **Serving**
   - noodles, shrimp, chopped garlic, sauce, cucumber
