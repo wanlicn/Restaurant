@@ -6,3 +6,6 @@
 [Noodle with Beef in sauce](Xiaogaojie-NoodleWithBeef.md)
 ### 酱牛肉
 [Beef in Sauce](Xiaogaojie-SaucedBeef.md)
+
+### 蒜香虾仁凉面
+[Shrimp noodles](Xiaogaojie-ShrimpNoodles-cold.md)
