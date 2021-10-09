@@ -4,7 +4,7 @@
 [粉蒸牛肉](https://www.youtube.com/watch?v=5Q4HACvSNQI)
 ![粉蒸牛肉](./Images/XGJ-BeefSteamedWithRice.jpg)
 
-### **Recipe:**
+### Recipe:
 
 **Ingredients**
 * Main:
@@ -43,7 +43,7 @@
  2. heat the Oil and pure on the mixture
  3. Add seasame oil
 
-### **Steps:**
+### Steps:
 - Step 0: **Wash the beef**
 1. Submerge the beef in water for 10 minutes, and wash away the blood
 - Step 1: **Marinate the beef**
