@@ -20,7 +20,6 @@
   * Glutinous rice: 1/3 cup
 
 **Sauce**
-- 
 
 
 ### Steps:
