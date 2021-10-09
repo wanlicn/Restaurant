@@ -32,13 +32,16 @@
   * Oil: 2 tbsp
 
 **Garlic oil**
-- Garlic: 7 cloves
-- Chili powder: 1.5 tbsp
-- Sesame: 1 tbsp
-- Salt: 1/4 tsp
-- Sichuan pepper powder: 1/4 tsp
-- Oil(hot): 1/3 cup
-- Sesame oil: 1 tbsp
+ - Garlic: 7 cloves
+ - Chili powder: 1.5 tbsp
+ - Sesame: 1 tbsp
+ - Salt: 1/4 tsp
+ - Sichuan pepper powder: 1/4 tsp
+ - Oil(hot): 1/3 cup
+ - Seasame oil: tsp
+ 1. Mix all the spicy substance
+ 2. heat the Oil and pure on the mixture
+ 3. Add seasame oil
 
 ### **Steps:**
 - Step 0: **Wash the beef**
