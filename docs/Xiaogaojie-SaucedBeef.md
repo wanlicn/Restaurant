@@ -1,7 +1,6 @@
 *[Home](https://wanlicn.github.io/restaurant/)*
 ## Sauced Beef
 [酱牛肉](https://www.youtube.com/watch?v=esz2fBMGkPE)
-
 ![酱牛肉](./Images/XGJ-BeefWithSauce.jpg)
 
 ### Recipe:
