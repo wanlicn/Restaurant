@@ -37,12 +37,12 @@
 1. Cut the dried chili into small piece, soak them into water for 30 minutes
 2. filter the chili from the water
 - Step 1: **Cook the beef with Dark soy sauce**
-1. Put the chili, Chopped onion, peppercorn, oil into the stewpot, fried out flavor
+1. Put the chili, Chopped onion, peppercorn, oil into the stewpot, fried for flavor
 2. put the beef into the stewpot, cook for a while
 3. Put the water(hot) into the stewpot
 4. Add Group2 ingredents
 5. boil the mixture and cook with low heat for 2 hours
-- Step 4: **prepare noodles**
+- Step 2: **prepare noodles**
 1. Mix powder, salt and water into a dough
 2. rest for 30 minutes with stretch film
 3. Flatten the dough and rest for another 30 minutes
@@ -50,7 +50,7 @@
 5. Brush oil on the both sides of the dough
 6. rest the flatten dough for 2 hours with stretch film
 7. Cut the dough into slice and drag the slice at two ends, a noodle would be done
-- Step 5: **Cook the noodle with beef**
+- Step 3: **Cook the noodle with beef**
 1. Boil the water
 2. Put the noodle into boilded water for 1 minute
 3. Boil some bok choy
