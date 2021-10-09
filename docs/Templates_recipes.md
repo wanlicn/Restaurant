@@ -6,7 +6,7 @@
 ![图片](./Images/XXX)
 
 
-### **Recipe:**
+### Recipe:
 
 **Ingredients**
 * Main:
@@ -19,11 +19,11 @@
   * Rice: 1/3 cup
   * Glutinous rice: 1/3 cup
 
-**Sauce:**
+**Sauce**
 - 
 
 
-### **Steps:**
+### Steps:
 - Step 0: Preparation before cooking
 1. 
 - Step 1: Prepare the beef
