@@ -44,9 +44,11 @@
 - dough 面团
   - wheaten flour  小麦粉
   - all purpose flour 中筋面粉
+  - cake flour 低筋面粉
   - starch 淀粉 // corn starch //bean starch
   - wheat starch 澄粉
-  - yeast 酵母
+  - yeast 酵母 
+  - leaven 酵母/发酵
   - Alkali 碱 // dietary alkali
  - batter 面糊 liquid/semiliquid mixture
  - fritter 油炸面团
@@ -67,6 +69,9 @@
 ### Dishes Name
 - dumpling  饺子
 - Wonton 馄饨  Wonton Wrappers 馄饨皮
+- Crepe 煎饼(薄饼） //thin crepe
+- flatcake 薄饼（无酵母）// 
+- pancake 煎饼/ 烧饼/烙饼 
 - moon cake 月饼: (Chinese Moon Festival / Mid-Autumn Festival)
 - Pan-fried bun 煎包
 - Handmade noodles 手擀面
@@ -77,15 +82,20 @@
 - Mung Bean Jelly 绿豆凉粉 // Mung Bean Jelly Noodle
 - Liangpi
 
+**Stir-Fried Dishes**
+- Garlic broccoli 蒜蓉西兰花
+- Shrimp Tempura 天妇罗
+
 ### Ingredents Name 配料
 - regular
   - Salt
   - Sugar
-  - Green Onion
-  - Onion
+  - Onion 洋葱//shallot 红葱头
+  - Green Onion=scallion 香葱
   - Ginger
-  - Garlic 
-  - garlic sprout 蒜苗/青蒜
+  - Garlic // garlic sprout 蒜苗/青蒜
+  - leek
+-  water // ice cube 冰块 
 - Oil
 - Ketchup 番茄酱
 - Sauce 酱油
@@ -93,6 +103,7 @@
   - Regualr soy sauce 生抽
   - Dark soy sauce  老抽
   - fish sauce 鱼露
+  - fermented soy bean 豆豉
 - Vinegar
   - Chinese black vinegar  陈醋
   - Chinese vinegar 香醋
@@ -115,10 +126,11 @@
  
 
 ### Fowl: Chicken/Turkey/other fowl 禽肉
-- chicken dumpstick  鸡腿肉（煮熟的）
 - chicken broth 鸡汤（清汤）
-- Chicken Wings
-
+- Chicken Wings 鸡翅
+- Chicken breast 鸡胸肉
+- chicken dumpstick  鸡腿肉（煮熟的）
+- 
 ### Vegetable 蔬菜
 - Potato 土豆
   -  gold potato 黄皮土豆 -- 大盘鸡 spicy chicken with potatoes/ 土豆炖牛肉 beef and potato stew
@@ -130,11 +142,15 @@
 - carrot 胡萝卜
 - cucummber 黄瓜
 - soy bean sprout 黄豆芽
+- Allium **百合科葱属**
+  - Onion/garlic/leek 韭葱/shallot 红葱头/scallion 香葱/chinese onion 小葱/chive 细香葱/ Garlic Chive韭菜 /yellow leek 韭黄/
+ - broccoli 花椰菜/西兰花
 
 ### Fruit 水果
 - honeydew 香蜜瓜
 - watermelon 西瓜
-
+### Seafood
+- white shrimp 明虾
 
 ### Preparation  预制处理
 - Water soak first then wash clean 水先浸泡然后清洗
@@ -151,6 +167,7 @@
 - When the chili turn color into darker remove them with strainer 辣椒变色时用滤网捞走辣椒
 - frying the chili seed, the simple hotness from chili is transferred into a kind of mild hotness with fragrant 辣椒籽经过煎制，原来单一的辣味变成温和的香辣味
 - there is no extra sauce left on the plate since the flavor is coated on each single stripe 盘中没有多余的汁水，所有的汁水都附着在土豆丝的表面
+- defrost 解冻  defrost for 1'30" in a microwave oven 用微波炉解冻
 
 ### Bakery
 - foil 锡箔纸
