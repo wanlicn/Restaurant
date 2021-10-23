@@ -80,7 +80,8 @@
 - Hot and Sour Shredded potatoes Chinese Style 酸辣土豆丝
 - sesame ball 麻团
 - Mung Bean Jelly 绿豆凉粉 // Mung Bean Jelly Noodle
-- Liangpi
+- Liangpi 凉皮
+- Chinese egg fried rice 蛋炒饭
 
 **Stir-Fried Dishes**
 - Garlic broccoli 蒜蓉西兰花
@@ -91,10 +92,12 @@
   - Salt
   - Sugar
   - Onion 洋葱//shallot 红葱头
-  - Green Onion=scallion 香葱
-  - Ginger
-  - Garlic // garlic sprout 蒜苗/青蒜
+  - Green Onion 香葱 （=scallion ）
+  - Cilantro 香菜 (源自西班牙语)
+  - Ginger 姜
+  - Garlic 蒜// garlic sprout 蒜苗/青蒜
   - leek
+  - 
 -  water // ice cube 冰块 
 - Oil
 - Ketchup 番茄酱
@@ -136,8 +139,9 @@
   -  gold potato 黄皮土豆 -- 大盘鸡 spicy chicken with potatoes/ 土豆炖牛肉 beef and potato stew
   -  Russet Potato 黑皮土豆 --薯条、烤土豆
   -  red/white potato 红皮/白皮土豆： 淀粉少 have less starch content，口感脆 a taste crispier，炒土豆丝
-- pepper
-  - bell pepper 菜椒
+- pepper 椒
+  - bell pepper 菜椒（钟形）
+  - Chili pepper 辣椒
 - beet 甜菜 beetroot 甜菜根
 - carrot 胡萝卜
 - cucummber 黄瓜
